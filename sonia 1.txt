@@ -1,4 +1,0 @@
-<title>my bio</title>
-<body>
-<h1> my name is rajkumar</h1>
-</body>
